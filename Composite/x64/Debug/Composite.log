@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Code\User\design-mode\Composite\main.cpp(123,8): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  Composite.vcxproj -> F:\Code\User\design-mode\x64\Debug\Composite.exe
